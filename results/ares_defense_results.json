@@ -1,0 +1,9 @@
+{
+    "baseline": 0.8462068965517241,
+    "random_dummy_padding_10": 0.02129310344827586,
+    "random_dummy_padding_20": 0.021810344827586207,
+    "random_dummy_padding_30": 0.020948275862068967,
+    "targeted_dummy_padding_10": 0.017413793103448275,
+    "targeted_dummy_padding_20": 0.019051724137931034,
+    "targeted_dummy_padding_30": 0.019224137931034484
+}
